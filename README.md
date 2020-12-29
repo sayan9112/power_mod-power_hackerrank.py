@@ -1,0 +1,1 @@
+# power_mod-power_hackerrank.py
